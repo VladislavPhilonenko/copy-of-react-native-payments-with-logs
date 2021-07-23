@@ -1,6 +1,6 @@
 {
-  "name": "copy-of-react-native-payments-with-logs",
-  "version": "0.1.1",
+  "name": "copy-of-react-native-payments-with-logs-v2",
+  "version": "0.1.2",
   "description": "This is just a copy of origin react-native-payments library",
   "scripts": {
     "run:packager": "cd examples/native && yarn run:packager",
@@ -11,8 +11,8 @@
     "lint:fix": "npm run lint -- --fix",
     "test": "jest"
   },
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://github.com/VladislavPhilonenko/copy-of-react-native-payments-with-logs.git",
+  "repository": "https://github.com/VladislavPhilonenko/copy-of-react-native-payments-with-logs.git",
   "keywords": [
     "react",
     "react-native",
